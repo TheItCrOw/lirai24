@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>Finding Needles in Emb(a)dding Haystacks: Legal Document Retrieval via Bagging and SVR Ensembles</b></h1>
-  <h3>LIRAI'24: The Second Workshop on Legal Information Retrieval meets Artificial Intelligence</h3>
+  <h3><a href="https://sites.google.com/view/LIRAI-2024">LIRAI'24:The Second Workshop on Legal Information Retrieval meets Artificial Intelligence</a></h3>
   <hr/>
 </div>
 
