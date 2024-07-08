@@ -4,7 +4,7 @@
   <hr/>
 </div>
 
-<i>We introduce a retrieval approach leveraging Support Vector Regression (SVR) ensembles, bootstrap aggregation (bagging), and embedding spaces on the [German Dataset for Legal Information Retrieval (GerDaLIR)](https://github.com/lavis-nlp/GerDaLIR). By conceptualizing the retrieval task in terms of multiple binary needle-in-a-haystack subtasks, we show improved recall over the baselines (0.849 > 0.803 | 0.829) using our voting ensemble. Our findings demonstrate improvement over two baselines, suggesting promising initial results. Our approach holds potential for further enhancement, particularly through refining the encoding models and optimizing hyperparameters.</i>
+<i>We introduce a retrieval approach leveraging Support Vector Regression (SVR) ensembles, bootstrap aggregation (bagging), and embedding spaces on the [German Dataset for Legal Information Retrieval (GerDaLIR)](https://github.com/lavis-nlp/GerDaLIR). By conceptualizing the retrieval task in terms of multiple binary needle-in-a-haystack subtasks, we show improved recall over the baselines (**0.849** > 0.803 | 0.829) using our voting ensemble. Our findings demonstrate improvement over two baselines, suggesting promising initial results. Our approach holds potential for further enhancement, particularly through refining the encoding models and optimizing hyperparameters.</i>
 <hr/>
 <div>
   <a href="https://www.texttechnologylab.org/"> <img src="https://img.shields.io/static/v1?label=&message=Text+Technology+Lab&color=blueviolet&style=for-the-badge&logo=internetarchive" alt="TTLab"></a>
