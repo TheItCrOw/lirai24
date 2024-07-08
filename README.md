@@ -43,7 +43,9 @@ Modeling the complete flow of the needle-in-a-haystack training, we begin by par
 
 *The baseline measures of the GerDaLIR dataset are compared to our preliminary LIR technique. In this context, Mode P and D refer to passage-wise and document-wise retrieval, respectively. Metrics such as MRR and nDCG have not yet been evaluated on our ensemble. The original authors utilized Recall@100 and Recall@1000 for re-ranking, a restriction that we do not impose. The results indicate that our preliminary ensemble surpasses all baseline measures.*
 
-## Contact
+## Contact and Cite
 
 For model weights, please contact the corresponding author listed in the [paper](#).
+
+If you use this project in your work, please cite it using the following metadata (TO BE ADDED).
 
