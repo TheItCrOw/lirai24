@@ -9,8 +9,11 @@
 <div align="center">
   <a href="https://www.texttechnologylab.org/"> <img src="https://img.shields.io/static/v1?label=&message=Text+Technology+Lab&color=blueviolet&style=for-the-badge&logo=internetarchive" alt="TTLab"></a>
   <a href="https://arxiv.org/abs/2501.05018"> <img src="https://img.shields.io/static/v1?label=&message=arXiv%20Paper&color=red&style=for-the-badge&logo=arxiv" alt="Paper: - In Proceedings"></a>
+  <a href="https://arxiv.org/abs/2501.05018"> <img src="https://img.shields.io/static/v1?label=&message=Dataset&color=black&style=for-the-badge&logo=databricks" alt="Paper: - In Proceedings"></a>
   <br/>
 </div>
+
+https://www.kaggle.com/datasets/kevinbnisch/german-dataset-for-legal-information-retrieval
 
 ## About
 
